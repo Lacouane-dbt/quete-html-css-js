@@ -1,0 +1,53 @@
+<html lang="fr">
+    <head>
+        <title> Apprendre à utiliser les liens HTML</title>
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+        <h1 id="liens"> Quelques liens</h1>
+        <div>
+            <ul>
+                <li>Retrouver ma page facebook <a href=https://www.facebook.com title="Page d'acceuil Facebook de Calixte Le Grix" target="_blank"> ici </a> </li>
+                <li>Retrouver ma recherche sur les chats <a href="q3.html" title="Etude sur les chats"> ici</a></li>
+                <li>Vous pouvez <a href="chat.ico" download="Photo_chat.ico" title="photo de chat"> télécharger cette photo </a>pour completer mon travail sur les chats </li>
+            </ul>
+        </div>
+        <div>
+           <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse assumenda suscipit ducimus repellat perferendis ab numquam similique harum. Fugit laborum sapiente tenetur quidem ad nemo reprehenderit nesciunt voluptas quaerat possimus.
+            Voluptas quidem ex modi, magnam, quasi quod eos ipsum consequuntur ut doloremque perspiciatis accusantium quibusdam expedita et quam cum minima, nostrum corporis? Fugit beatae autem delectus inventore, omnis laboriosam nisi.
+            Dolorem labore aliquid dignissimos, sapiente sunt blanditiis ipsam, nemo dolorum eius sint ex beatae quis neque enim odit! Atque voluptatem, eligendi nihil id animi ex quidem illum perferendis repellat delectus!
+            Expedita ipsum deleniti velit? Eligendi id, omnis, odio cum incidunt debitis nam provident sed quasi suscipit cupiditate totam quaerat, voluptate ab hic fuga necessitatibus? Sequi non in rerum? Delectus, excepturi!
+            Deleniti molestiae, corrupti, unde minima repellat molestias veniam nam blanditiis incidunt vero doloremque! Quae reiciendis blanditiis corrupti enim officia, id deserunt est quisquam excepturi voluptates, accusamus placeat deleniti non at?
+            Ipsum provident molestias inventore ratione architecto, soluta beatae sit illum, ipsa exercitationem excepturi, eligendi cupiditate libero aliquid repellat ducimus dolore laboriosam! Numquam minima hic explicabo dolore facere accusamus eius cumque!
+            Eum provident ullam suscipit ab inventore optio sapiente nam facere! Rem vero eos deserunt, qui commodi expedita exercitationem. Quasi est fugit vitae aliquid quae. Non ratione ut nemo repudiandae ipsum.
+            Assumenda blanditiis officiis, ipsa maxime doloribus tenetur eaque ut nobis nemo accusamus ea ab voluptatibus nihil a quia architecto possimus tempora sequi sint? Porro beatae, nemo architecto maxime consequuntur assumenda.
+            A quos suscipit fugit quasi saepe reprehenderit sint magni illum aut ipsa? Obcaecati impedit ducimus, ut commodi quasi fugiat cumque autem quam cupiditate veritatis ex quibusdam? Tenetur delectus magni iure.
+            Temporibus, neque quo nam dicta, accusantium vitae nobis optio voluptatum sed soluta beatae impedit nesciunt, voluptatem dolorum reprehenderit provident nostrum quis officiis ipsam. Voluptatem praesentium quam repellat a doloremque nobis?
+            </P>
+            <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse assumenda suscipit ducimus repellat perferendis ab numquam similique harum. Fugit laborum sapiente tenetur quidem ad nemo reprehenderit nesciunt voluptas quaerat possimus.
+            Voluptas quidem ex modi, magnam, quasi quod eos ipsum consequuntur ut doloremque perspiciatis accusantium quibusdam expedita et quam cum minima, nostrum corporis? Fugit beatae autem delectus inventore, omnis laboriosam nisi.
+            Dolorem labore aliquid dignissimos, sapiente sunt blanditiis ipsam, nemo dolorum eius sint ex beatae quis neque enim odit! Atque voluptatem, eligendi nihil id animi ex quidem illum perferendis repellat delectus!
+            Expedita ipsum deleniti velit? Eligendi id, omnis, odio cum incidunt debitis nam provident sed quasi suscipit cupiditate totam quaerat, voluptate ab hic fuga necessitatibus? Sequi non in rerum? Delectus, excepturi!
+            Deleniti molestiae, corrupti, unde minima repellat molestias veniam nam blanditiis incidunt vero doloremque! Quae reiciendis blanditiis corrupti enim officia, id deserunt est quisquam excepturi voluptates, accusamus placeat deleniti non at?                Ipsum provident molestias inventore ratione architecto, soluta beatae sit illum, ipsa exercitationem excepturi, eligendi cupiditate libero aliquid repellat ducimus dolore laboriosam! Numquam minima hic explicabo dolore facere accusamus eius cumque!
+            Eum provident ullam suscipit ab inventore optio sapiente nam facere! Rem vero eos deserunt, qui commodi expedita exercitationem. Quasi est fugit vitae aliquid quae. Non ratione ut nemo repudiandae ipsum.
+            Assumenda blanditiis officiis, ipsa maxime doloribus tenetur eaque ut nobis nemo accusamus ea ab voluptatibus nihil a quia architecto possimus tempora sequi sint? Porro beatae, nemo architecto maxime consequuntur assumenda.
+            A quos suscipit fugit quasi saepe reprehenderit sint magni illum aut ipsa? Obcaecati impedit ducimus, ut commodi quasi fugiat cumque autem quam cupiditate veritatis ex quibusdam? Tenetur delectus magni iure.
+            Temporibus, neque quo nam dicta, accusantium vitae nobis optio voluptatum sed soluta beatae impedit nesciunt, voluptatem dolorum reprehenderit provident nostrum quis officiis ipsam. Voluptatem praesentium quam repellat a doloremque nobis?
+            </P>
+            <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse assumenda suscipit ducimus repellat perferendis ab numquam similique harum. Fugit laborum sapiente tenetur quidem ad nemo reprehenderit nesciunt voluptas quaerat possimus.
+            Voluptas quidem ex modi, magnam, quasi quod eos ipsum consequuntur ut doloremque perspiciatis accusantium quibusdam expedita et quam cum minima, nostrum corporis? Fugit beatae autem delectus inventore, omnis laboriosam nisi.
+            Dolorem labore aliquid dignissimos, sapiente sunt blanditiis ipsam, nemo dolorum eius sint ex beatae quis neque enim odit! Atque voluptatem, eligendi nihil id animi ex quidem illum perferendis repellat delectus!
+            Expedita ipsum deleniti velit? Eligendi id, omnis, odio cum incidunt debitis nam provident sed quasi suscipit cupiditate totam quaerat, voluptate ab hic fuga necessitatibus? Sequi non in rerum? Delectus, excepturi!
+            Deleniti molestiae, corrupti, unde minima repellat molestias veniam nam blanditiis incidunt vero doloremque! Quae reiciendis blanditiis corrupti enim officia, id deserunt est quisquam excepturi voluptates, accusamus placeat deleniti non at?                Ipsum provident molestias inventore ratione architecto, soluta beatae sit illum, ipsa exercitationem excepturi, eligendi cupiditate libero aliquid repellat ducimus dolore laboriosam! Numquam minima hic explicabo dolore facere accusamus eius cumque!
+            Eum provident ullam suscipit ab inventore optio sapiente nam facere! Rem vero eos deserunt, qui commodi expedita exercitationem. Quasi est fugit vitae aliquid quae. Non ratione ut nemo repudiandae ipsum.
+            Assumenda blanditiis officiis, ipsa maxime doloribus tenetur eaque ut nobis nemo accusamus ea ab voluptatibus nihil a quia architecto possimus tempora sequi sint? Porro beatae, nemo architecto maxime consequuntur assumenda.
+            A quos suscipit fugit quasi saepe reprehenderit sint magni illum aut ipsa? Obcaecati impedit ducimus, ut commodi quasi fugiat cumque autem quam cupiditate veritatis ex quibusdam? Tenetur delectus magni iure.
+            Temporibus, neque quo nam dicta, accusantium vitae nobis optio voluptatum sed soluta beatae impedit nesciunt, voluptatem dolorum reprehenderit provident nostrum quis officiis ipsam. Voluptatem praesentium quam repellat a doloremque nobis?
+             </P>
+        </div>
+        <div>
+           <a href="#liens" title="retour haut de page"> Retour en haut de page </a>
+        </div>
+    </body>
+</html>
