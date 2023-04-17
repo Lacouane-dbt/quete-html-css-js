@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Histoire des chats</title>
+    <link rel="shortcut icon"href="chat.ico" type="image/x-icon">
+</head>
+
+<body>
+
+<h1>Qui sont les chats ?</h1>
+<p>Les <strong>chats</strong> sont les membres de la famille des <em>félins</em>, et ils partagent de nombreuses caractéristiques avec leurs cousins les lions, les tigres et les panthères. Les chats domestiques sont les plus populaires au monde et <strong> sont adorés par des millions de personnes</strong> pour leur compagnie et leur <em> affectueuse nature</em>.</p>
+
+<h2> Quelle est l'histoire des chats ? </h2>
+<blockquote cite="https://absolumentchats.com/60-citations-sur-les-chats/"> « Ce qui est merveilleux avec un chat c’est qu’il n’y a rien à faire quand il vient à vous, qu’à le regarder. » Annie Duperey</blockquote>  
+
+  <h3>Les premiers chats domestiques</h3>
+  <p>Les chats sont originaires <strong> d'Afrique, d'Asie et d'Europe</strong>, et ils ont été domestiqués il y a environ 9 000 ans. Les premiers chats domestiques étaient probablement <em>des chats sauvages </em> qui se sont approchés des humains pour profiter de leur nourriture. Au fil du temps, les chats et les humains ont développé <strong> une relation symbiotique</strong>, et les chats ont été apprivoisés et domestiqués.</p>
+
+  <h3>La domestication des chats en Europe </h3>
+  <p>Les chats ont été introduits <em>en Europe au Moyen Âge</em>, où ils ont été utilisés pour chasser les rats et les souris. Les nobles européens ont rapidement adopté les chats comme <strong> animaux de compagnie </strong>, et ils ont été très appréciés pour leur beauté et leur personnalité. Au fil du temps, les chats ont été introduits dans d'autres parties du monde, et ils ont rapidement gagné en popularité.</p>
+
+<h2>Quelles sont les caractéristiques des chats ? </h2>
+  <p>Les chats sont des animaux très intelligents et ils ont un sens aigu de l'observation. Ils sont également très flexibles, et ils peuvent <strong> se contorsionner </strong> pour atteindre des endroits inaccessibles. Les chats sont capables de sauter jusqu'à <strong>cinq fois leur hauteur</strong>, et ils peuvent courir à des vitesses allant <em>jusqu'à 45 <abbr title="kilomètres par heure">km/h</abbr></em>. </p>
+  <p>Les chats ont une excellente vision nocturne, et ils sont très sensibles aux mouvements. Ils ont également un excellent sens de l'odorat, et ils peuvent détecter des odeurs à des distances allant jusqu'à 100 mètres. </p>
+
+<pre>
+    <code>
+        &lt;h1 &gt; les chats dans les jeux&lt;/h1&gt;
+        &lt;img href=&quot;jeux.fr alt=&quot;jeux&gt;
+    
+    </code>
+</pre>
+
+</body>
