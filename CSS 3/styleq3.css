@@ -1,0 +1,59 @@
+
+nav ul {
+    padding-top: 25;
+    padding-right: 150px;
+    background: purple;
+    margin-bottom: 50px;
+    }
+    
+nav ul li {
+    display: inline-block; /* menu affichÃ© en ligner*/
+    list-style: none; /* suppression du point de liste*/
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    font-size: 25px;
+    text-decoration-line: none;
+}
+
+nav a:hover {
+    color: purple;
+}
+nav ul li:hover {
+    background: white;
+}
+
+h1 {
+    background: grey;
+    margin-left: 350px;
+    width: 500px;
+    text-align: center;
+    border-radius: 22px;
+
+}
+
+#formContact {
+    margin-left: 450px;
+}
+
+#formContact input, textarea {
+    padding: 10px;
+    background: grey;
+    width: 420px;
+    border-radius: 22px;
+    }
+
+#formContact button {
+    font-size: 20px;
+    padding: 10px;
+    background: purple;
+    margin-bottom: 30px;
+    border-radius: 22px;
+}
+
+footer {
+    background:grey;
+    padding: 7px;
+}
